@@ -1,0 +1,45 @@
+{
+  "name": "miku-code",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "displayName": "Miku Code",
+  "description": "Un tema inspirado en Hatsune Miku con colores turquesa vibrantes - by Biglex J",
+  "publisher": "biglexj",
+  "author": {
+    "name": "Biglex J",
+    "url": "https://github.com/biglexj"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "miku",
+    "turquoise",
+    "aqua",
+    "vocaloid",
+    "anime"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Miku Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miku-code-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biglexj/miku-code-theme"
+  },
+  "homepage": "https://github.com/biglexj/miku-code-theme",
+  "bugs": {
+    "url": "https://github.com/biglexj/miku-code-theme/issues"
+  },
+  "license": "MIT"
+}
