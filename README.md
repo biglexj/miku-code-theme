@@ -59,7 +59,7 @@ Un tema oscuro inspirado en **Hatsune Miku** con colores turquesa vibrantes dise
       "opacity": 0.08
     },
     "styles": [{}, {}, {}],
-    "images": ["https://github.com/biglexj/miku-code-theme/background/miku-background.png"],
+    "images": ["file:///C:/TuRuta/DeFondo/miku-code/background/miku-background.png", "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/284825c9-2d77-431d-a366-3068208e9d63/dkix9wz-a19fee91-e5eb-45a6-9db7-33f2afda624c.png/v1/fill/w_1192,h_670/miku_background_by_biglexj_dkix9wz-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6Ii9mLzI4NDgyNWM5LTJkNzctNDMxZC1hMzY2LTMwNjgyMDhlOWQ2My9ka2l4OXd6LWExOWZlZTkxLWU1ZWItNDVhNi05ZGI3LTMzZjJhZmRhNjI0Yy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RlDrExfKlMdgm4N4mA4nIIJzBwmI3xVo4d5s3L8wmOg"], //<-- Ruta de la imagen de DevianArt https://www.deviantart.com/biglexj/art/Miku-background-1241109107 
     "interval": 0,
     "random": false
   }
