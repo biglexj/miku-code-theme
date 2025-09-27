@@ -6,7 +6,21 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-es/1
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-<!-- Cambios futuros aquí -->
+
+## [1.2.0] - 2025-10-03
+
+### 🎉 Added
+- **Nueva variante de tema: Miku Code - Fusion**. Esta versión utiliza un color turquesa más suave y azulado (`#7dcfff`) para los *keywords* y elementos principales de la UI, ofreciendo una alternativa visual al tema base.
+
+### 🔧 Changed
+- El tema original ahora se identifica como **Miku Code (Base)** para diferenciarlo de la nueva variante. Su color principal se mantiene en el turquesa brillante (`#29CCD0`).
+- Actualizada la documentación (`README.md`) para reflejar ambas variantes y sus paletas de colores.
+
+## [1.1.0] - 2025-09-26
+
+### 🎉 Added
+- Se añadieron nuevos colores y se mejoró la consistencia entre ellos para una experiencia más cohesiva.
+- Mejoras en el highlighting para C#, Python, y otros lenguajes.
 
 ## [1.0.0] - 2025-09-12
 
@@ -36,26 +50,40 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## Versiones Futuras Planeadas
 
-### [1.1.0] - Próximamente
+### [1.3.0] - Expansión Visual
 - [ ] **Fondo personalizado** con silueta de Miku
-- [ ] **Variantes del tema** (Miku Light, Miku Neon)
-- [ ] **Mejoras en highlighting** para más lenguajes
-- [ ] **Iconos personalizados** para el file explorer
+- [ ] **Variantes de intensidad** (Miku Soft, Miku Vibrant)
+- [ ] **Gradientes animados** opcionales en la interfaz
 
-### [1.2.0] - En consideración
-- [ ] **Sounds effects** opcionales al cambiar archivos
-- [ ] **Animaciones sutiles** en la interfaz
-- [ ] **Tema companion** para terminal externa
-- [ ] **Integration** con extensiones populares
+### [1.4.0] - Mejoras Avanzadas
+- [ ] **Highlighting mejorado** para más lenguajes (Rust, Go, Kotlin)
+- [ ] **Iconos personalizados** inspirados en Miku para file explorer
+- [ ] **Paleta de comandos** con colores temáticos
+
+### [1.5.0] - Experiencia Inmersiva
+- [ ] **Sound effects** opcionales al cambiar archivos
+- [ ] **Variantes del tema** (Miku Light, Miku Neon, Miku Retro)
+- [ ] **Animaciones sutiles** en transiciones de interfaz
+- [ ] **Modo concierto** con efectos visuales especiales
+
+### [2.0.0] - Revolución Miku
+- [ ] **AI-powered** sugerencias de colores basadas en el código
+- [ ] **Sincronización** con música de Miku para cambios dinámicos
+- [ ] **Colaboración** con otros temas de anime populares
 
 ---
 
 ## Contribuciones
+<p align="left">
+  <a href="https://www.buymeacoffee.com/biglexj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+</p>
 
 ¿Encontraste un bug o tienes una sugerencia? 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/biglexj/miku-code-theme)
 - 💡 **Sugerencias**: [Discussions](https://github.com/biglexj/miku-code-theme/discussions)
 - 📧 **Contacto**: [@biglexj](https://github.com/biglexj)
+- 🎨 **Paleta de colores**: Basada en análisis cromático científico
+- 🎵 **Canal Dev**: [@biglexdev](https://youtube.com/@biglexdev)
 
 ## Inspiración
 
