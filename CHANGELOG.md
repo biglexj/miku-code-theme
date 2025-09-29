@@ -7,7 +7,13 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
-## [1.2.0] - 2025-10-03
+## [1.2.1] - 2025-10-29
+
+###✨ Optimize
+
+- **Tabs color.
+
+## [1.2.0] - 2025-10-27
 
 ### 🎉 Added
 - **Nueva variante de tema: Miku Code - Fusion**. Esta versión utiliza un color turquesa más suave y azulado (`#7dcfff`) para los *keywords* y elementos principales de la UI, ofreciendo una alternativa visual al tema base.
