@@ -266,6 +266,7 @@
     "debugExceptionWidget.border": "#29ccd085",
   },
   "tokenColors": [
+  // === Base Tokens (originales) ===
     {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
@@ -378,6 +379,364 @@
       "settings": {
         "foreground": "#bb9af7",
         "fontStyle": "bold"
+      }
+    },
+
+    // === ASTRO ===
+    {
+      "name": "Astro - Component Tag",
+      "scope": [
+        "entity.name.tag.astro",
+        "meta.tag.astro entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#f7768e",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Astro - Frontmatter Fence",
+      "scope": [
+        "meta.embedded.fence.astro",
+        "punctuation.definition.frontmatter.astro"
+      ],
+      "settings": {
+        "foreground": "#565f89",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Astro - Props & Astro Globals",
+      "scope": [
+        "variable.other.object.astro",
+        "support.variable.astro"
+      ],
+      "settings": {
+        "foreground": "#e0af68"
+      }
+    },
+    {
+      "name": "Astro - Script/Style Tags",
+      "scope": [
+        "meta.tag.script.astro",
+        "meta.tag.style.astro"
+      ],
+      "settings": {
+        "foreground": "#bb9af7"
+      }
+    },
+
+    // === REACT / JSX / TSX ===
+    {
+      "name": "React - Component Name",
+      "scope": [
+        "entity.name.type.jsx",
+        "entity.name.type.tsx",
+        "support.class.component.jsx",
+        "support.class.component.tsx"
+      ],
+      "settings": {
+        "foreground": "#e0af68",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "React - JSX Tags",
+      "scope": [
+        "entity.name.tag.jsx",
+        "entity.name.tag.tsx",
+        "punctuation.definition.tag.jsx",
+        "punctuation.definition.tag.tsx"
+      ],
+      "settings": {
+        "foreground": "#f7768e"
+      }
+    },
+    {
+      "name": "React - JSX Attributes",
+      "scope": [
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#bb9af7"
+      }
+    },
+    {
+      "name": "React - Hooks",
+      "scope": [
+        "support.function.hook.react"
+      ],
+      "settings": {
+        "foreground": "#7dcfff",
+        "fontStyle": "italic"
+      }
+    },
+
+    // === TYPESCRIPT ===
+    {
+      "name": "TypeScript - Type Annotation",
+      "scope": [
+        "meta.type.annotation.ts",
+        "meta.type.annotation.tsx"
+      ],
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "TypeScript - Interface",
+      "scope": [
+        "entity.name.type.interface.ts",
+        "entity.name.type.interface.tsx"
+      ],
+      "settings": {
+        "foreground": "#2ac3de",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "TypeScript - Type",
+      "scope": [
+        "entity.name.type.ts",
+        "entity.name.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#2ac3de"
+      }
+    },
+    {
+      "name": "TypeScript - Generics",
+      "scope": [
+        "meta.type.parameters.ts",
+        "meta.type.parameters.tsx"
+      ],
+      "settings": {
+        "foreground": "#e0af68"
+      }
+    },
+
+    // === TAILWIND CSS ===
+    {
+      "name": "Tailwind - Class Names",
+      "scope": [
+        "meta.attribute.class.html string",
+        "meta.attribute.class.jsx string",
+        "meta.attribute.class.tsx string"
+      ],
+      "settings": {
+        "foreground": "#7dcfff"
+      }
+    },
+    {
+      "name": "Tailwind - Variants (hover:, md:, etc)",
+      "scope": [
+        "constant.other.color.tailwind"
+      ],
+      "settings": {
+        "foreground": "#bb9af7"
+      }
+    },
+
+    // === VUE ===
+    {
+      "name": "Vue - Template Tags",
+      "scope": [
+        "entity.name.tag.vue",
+        "meta.tag.template.vue"
+      ],
+      "settings": {
+        "foreground": "#f7768e"
+      }
+    },
+    {
+      "name": "Vue - Directives (v-if, v-for, etc)",
+      "scope": [
+        "entity.other.attribute-name.vue",
+        "meta.directive.vue"
+      ],
+      "settings": {
+        "foreground": "#9ece6a",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Vue - Script Setup",
+      "scope": [
+        "meta.tag.script.vue support.constant.vue"
+      ],
+      "settings": {
+        "foreground": "#bb9af7",
+        "fontStyle": "bold"
+      }
+    },
+
+    // === SVELTE ===
+    {
+      "name": "Svelte - Component Tags",
+      "scope": [
+        "entity.name.tag.svelte",
+        "meta.tag.svelte"
+      ],
+      "settings": {
+        "foreground": "#f7768e"
+      }
+    },
+    {
+      "name": "Svelte - Directives & Special Attributes",
+      "scope": [
+        "entity.other.attribute-name.svelte",
+        "keyword.control.svelte"
+      ],
+      "settings": {
+        "foreground": "#ff9e64",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Svelte - Script/Style Tags",
+      "scope": [
+        "meta.tag.script.svelte",
+        "meta.tag.style.svelte"
+      ],
+      "settings": {
+        "foreground": "#bb9af7"
+      }
+    },
+
+    // === PYTHON ===
+    {
+      "name": "Python - Decorators",
+      "scope": [
+        "entity.name.function.decorator.python",
+        "meta.function.decorator.python"
+      ],
+      "settings": {
+        "foreground": "#e0af68",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Python - Magic Methods",
+      "scope": [
+        "support.function.magic.python"
+      ],
+      "settings": {
+        "foreground": "#bb9af7"
+      }
+    },
+    {
+      "name": "Python - Self Parameter",
+      "scope": [
+        "variable.parameter.function.language.special.self.python"
+      ],
+      "settings": {
+        "foreground": "#f7768e",
+        "fontStyle": "italic"
+      }
+    },
+
+    // === C# ===
+    {
+      "name": "C# - Attributes",
+      "scope": [
+        "entity.name.type.attribute.cs"
+      ],
+      "settings": {
+        "foreground": "#e0af68",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "C# - LINQ Keywords",
+      "scope": [
+        "keyword.query.cs"
+      ],
+      "settings": {
+        "foreground": "#bb9af7",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "C# - Namespace",
+      "scope": [
+        "entity.name.type.namespace.cs"
+      ],
+      "settings": {
+        "foreground": "#7dcfff"
+      }
+    },
+
+    // === MARKDOWN ===
+    {
+      "name": "Markdown - Heading",
+      "scope": [
+        "markup.heading.markdown",
+        "entity.name.section.markdown"
+      ],
+      "settings": {
+        "foreground": "#7aa2f7",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown - Bold",
+      "scope": [
+        "markup.bold.markdown"
+      ],
+      "settings": {
+        "foreground": "#e0af68",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markdown - Italic",
+      "scope": [
+        "markup.italic.markdown"
+      ],
+      "settings": {
+        "foreground": "#bb9af7",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markdown - Code",
+      "scope": [
+        "markup.inline.raw.markdown",
+        "markup.fenced_code.block.markdown"
+      ],
+      "settings": {
+        "foreground": "#9ece6a"
+      }
+    },
+    {
+      "name": "Markdown - Link",
+      "scope": [
+        "markup.underline.link.markdown"
+      ],
+      "settings": {
+        "foreground": "#7dcfff"
+      }
+    },
+
+    // === YAML ===
+    {
+      "name": "YAML - Key",
+      "scope": [
+        "entity.name.tag.yaml"
+      ],
+      "settings": {
+        "foreground": "#7dcfff"
+      }
+    },
+    {
+      "name": "YAML - Anchor/Alias",
+      "scope": [
+        "variable.other.alias.yaml",
+        "keyword.control.flow.alias.yaml"
+      ],
+      "settings": {
+        "foreground": "#e0af68"
       }
     }
   ]
