@@ -1,6 +1,6 @@
 {
   "name": "miku-code",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "icon": "icon.png",
   "displayName": "Miku Code",
   "description": "Un tema inspirado en Hatsune Miku con colores turquesa vibrantes - by Biglex J. Incluye múltiples variantes para diferentes lenguajes.",
@@ -18,15 +18,19 @@
   "keywords": [
     "theme",
     "dark",
+    "light",
     "miku",
     "turquoise",
     "aqua",
+    "cyan",
     "vocaloid",
     "anime",
     "multilanguage",
     "web",
     "python",
-    "javascript"
+    "javascript",
+    "typescript",
+    "react"
   ],
   "contributes": {
     "themes": [
@@ -36,9 +40,19 @@
         "path": "./themes/miku-code-color-theme.json"
       },
       {
-        "label": "Miku Code - Fusion",
+        "label": "Miku Code - Light",
+        "uiTheme": "vs",
+        "path": "./themes/miku-code-light-color-theme.json"
+      },
+      {
+        "label": "Miku Code Fusion",
         "uiTheme": "vs-dark",
         "path": "./themes/miku-code-fusion-color-theme.json"
+      },
+      {
+        "label": "Miku Code Fusion - Light",
+        "uiTheme": "vs",
+        "path": "./themes/miku-code-fusion-light-color-theme.json"
       }
     ]
   },

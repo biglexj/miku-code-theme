@@ -7,6 +7,10 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
+## [1.3.0] - 2025-10-20
+
+### 🎉 Added variantes Claros/Light
+
 ## [1.2.2] - 2025-10-04
 
 ###🌈 Add color sintaxis
@@ -60,7 +64,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## Versiones Futuras Planeadas
 
-### [1.3.0] - Expansión Visual
+### [1.3.1] - Expansión Visual
 - [ ] **Fondo personalizado** con silueta de Miku
 - [ ] **Variantes de intensidad** (Miku Soft, Miku Vibrant)
 - [ ] **Gradientes animados** opcionales en la interfaz

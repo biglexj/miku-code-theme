@@ -3,8 +3,11 @@
 Un tema oscuro inspirado en **Hatsune Miku** con colores turquesa vibrantes, diseñado para una experiencia de programación cómoda y kawaii.
 
 Este paquete incluye dos variantes:
+
 - **Miku Code (Base)**: La experiencia original con un turquesa brillante (`#29CCD0`).
+- **Miku Code Light**: La versión Light de Miku Code.
 - **Miku Code - Fusion**: Una variante con un turquesa más suave y azulado (`#7dcfff`) para una apariencia diferente.
+- **Miku Code - Fusion Light**: La versión Light de Miku Code - Fusion.
 
 ### ✨ Características
 
