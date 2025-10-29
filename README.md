@@ -35,10 +35,8 @@ Este paquete incluye dos variantes:
 - **C# .NET**
 - **JSON & CSS**
 - **HTML & Markdown**
-
-![Preview](images/preview.png)
-
-### 🗿 Para mayor personalización
+  
+### 🗿 Para Añadir a Miku de fondo
 
 1. Busca "Background" (by shalldie) e instala la extensión
 2. Añade esta configuración a `settings.json`:
@@ -68,7 +66,17 @@ Este paquete incluye dos variantes:
 
 ---
 
-![Preview-Miku](images/preview2.png)
+## 🖼️ Vistas Previas
+
+| Miku Code | Miku Code - Light|
+| :---: | :---: |
+| ![Miku Code](images/miku-code.png) | ![Miku Code Light](images/miku-code-light.png) |
+
+| Miku Code - Fusion| Miku Code - Fusion- Light|
+| :---: | :---: |
+| ![Miku Code Fusion](images/miku-code-fusion.png) | ![Miku Code Fusion Light](images/miku-code-fusion-light.png) |
+
+---
 
 **Made with 💙 by [@biglexj](https://github.com/biglexj)**
 
