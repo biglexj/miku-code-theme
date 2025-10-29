@@ -373,7 +373,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -387,7 +387,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#565f89"
+        "foreground": "#a9b1d6"
       }
     },
     {
@@ -408,7 +408,7 @@
       "name": "inserted.diff",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1000,7 +1000,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1163,14 +1163,14 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1302,7 +1302,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1645,7 +1645,7 @@
         "keyword.other.template.begin"
       ],
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1654,7 +1654,7 @@
         "keyword.other.template.end"
       ],
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1663,7 +1663,7 @@
         "keyword.other.substitution.begin"
       ],
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1672,7 +1672,7 @@
         "keyword.other.substitution.end"
       ],
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1801,7 +1801,7 @@
         "source.ini"
       ],
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1855,7 +1855,7 @@
         "meta.definition.class.inherited.classes.groovy"
       ],
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1961,7 +1961,7 @@
         "beginning.punctuation.definition.quote.markdown.xi"
       ],
       "settings": {
-        "foreground": "#a9b1d6"
+        "foreground": "#565f89"
       }
     },
     {
@@ -1970,7 +1970,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#565f89"
+        "foreground": "#a9b1d6"
       }
     },
     {
@@ -2015,7 +2015,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#565f89"
+        "foreground": "#a9b1d6"
       }
     },
     {
@@ -2054,14 +2054,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#565f89"
+        "foreground": "#a9b1d6"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#565f89"
+        "foreground": "#a9b1d6"
       }
     },
     {
