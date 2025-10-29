@@ -7,7 +7,8 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
-## [1.3.4]
+## [1.3.4] - 2025-10-28
+
 ### Optimize colors
 
 ## [1.3.0] - 2025-10-20
@@ -67,17 +68,17 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## Versiones Futuras Planeadas
 
-### [1.3.5] - Expansión Visual
+### [1.5.0] - Expansión Visual
 - [ ] **Fondo personalizado** con silueta de Miku
 - [ ] **Variantes de intensidad** (Miku Soft, Miku Vibrant)
 - [ ] **Gradientes animados** opcionales en la interfaz
 
-### [1.4.0] - Mejoras Avanzadas
+### [1.6.0] - Mejoras Avanzadas
 - [ ] **Highlighting mejorado** para más lenguajes (Rust, Go, Kotlin)
 - [ ] **Iconos personalizados** inspirados en Miku para file explorer
 - [ ] **Paleta de comandos** con colores temáticos
 
-### [1.5.0] - Experiencia Inmersiva
+### [1.7.0] - Experiencia Inmersiva
 - [ ] **Sound effects** opcionales al cambiar archivos
 - [ ] **Variantes del tema** (Miku Light, Miku Neon, Miku Retro)
 - [ ] **Animaciones sutiles** en transiciones de interfaz
