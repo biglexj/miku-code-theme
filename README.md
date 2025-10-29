@@ -72,7 +72,7 @@ Este paquete incluye dos variantes:
 | :---: | :---: |
 | ![Miku Code](images/miku-code.png) | ![Miku Code Light](images/miku-code-light.png) |
 
-| Miku Code - Fusion| Miku Code - Fusion- Light|
+| Miku Code Fusion| Miku Code Fusion- Light|
 | :---: | :---: |
 | ![Miku Code Fusion](images/miku-code-fusion.png) | ![Miku Code Fusion Light](images/miku-code-fusion-light.png) |
 
