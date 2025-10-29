@@ -36,7 +36,7 @@ Este paquete incluye dos variantes:
 - **JSON & CSS**
 - **HTML & Markdown**
   
-### 🗿 Para Añadir a Miku de fondo
+### 🗿 Para añadir a Miku de fondo
 
 1. Busca "Background" (by shalldie) e instala la extensión
 2. Añade esta configuración a `settings.json`:
